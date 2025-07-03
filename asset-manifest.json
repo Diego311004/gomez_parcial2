@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gomez_parcial2/static/css/main.f855e6bc.css",
+    "main.js": "/gomez_parcial2/static/js/main.270c18ca.js",
+    "static/js/453.d12518db.chunk.js": "/gomez_parcial2/static/js/453.d12518db.chunk.js",
+    "static/media/alumno.jpg": "/gomez_parcial2/static/media/alumno.7730d47d8475dbb4991e.jpg",
+    "index.html": "/gomez_parcial2/index.html",
+    "main.f855e6bc.css.map": "/gomez_parcial2/static/css/main.f855e6bc.css.map",
+    "main.270c18ca.js.map": "/gomez_parcial2/static/js/main.270c18ca.js.map",
+    "453.d12518db.chunk.js.map": "/gomez_parcial2/static/js/453.d12518db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.270c18ca.js"
+  ]
+}
