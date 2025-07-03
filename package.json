@@ -1,6 +1,7 @@
 {
   "name": "exa",
   "homepage": "https://Diego311004.github.io/gomez_parcial2",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
